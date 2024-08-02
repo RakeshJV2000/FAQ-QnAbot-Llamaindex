@@ -1,4 +1,8 @@
 # FAQ-QnAbot-Llamaindex
+
+<img width="1439" alt="result1" src="https://github.com/user-attachments/assets/fe48f392-f530-4629-adef-d5f7129fa6b0">
+
+
 ## Streamlit QnA app to answer FAQs
 - Developed a QnA bot with Gemini-1.5 model capable of answering questions based on information from CSV, Text, and PDFs
 - Employed **Llamaindex** to vectorize text embeddings, ensuring efficient retrieval of relevant information via indexing
