@@ -5,7 +5,7 @@
 - Built a query engine and retriever system to extract context based on similarity search to answer questions with the help of LLM
 
 ## Project Description:
-Developed an advanced question-answering system utilizing state-of-the-art machine learning models and techniques to extract and synthesize information from a corpus of text documents. This project integrated LlamaIndex, Gemini models, and Hugging Face’s embeddings to create a dynamic system capable of understanding and responding to user queries on 6 topics: Amazon Sagemaker, Aadhar card, Air India, HDFC bank, Sevenhills Hospital, and TATA communications. Look into [data](https://github.com/RakeshJV2000/FAQ-QnAbot-Llamaindex/data) folder for more details
+Developed an advanced question-answering system utilizing state-of-the-art machine learning models and techniques to extract and synthesize information from a corpus of text documents. This project integrated LlamaIndex, Gemini models, and Hugging Face’s embeddings to create a dynamic system capable of understanding and responding to user queries on 6 topics: Amazon Sagemaker, Aadhar card, Air India, HDFC bank, Sevenhills Hospital, and TATA communications. Look into [data](https://github.com/RakeshJV2000/FAQ-QnAbot-Llamaindex/tree/main/data) folder for more details
 
 ### Technologies Used:
 - Gemini Model: Leveraged the Gemini-1.5-flash model for efficient retrieval-augmented generation, facilitating sophisticated question-answering capabilities.
